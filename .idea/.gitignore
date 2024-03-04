@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+node_modules/
+ios/build/
+android/build/
+android/local.properties
+android/gradle.properties
+android/gradlew
+android/gradlew.bat
+android/gradle/
+android/app/build/
+android/app/local.properties
+android/app/gradle.properties
+android/app/gradlew
+android/app/gradlew.bat
+android/app/gradle/
+
