@@ -2,6 +2,8 @@
   "name": "mon_app_react_native",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "https://titine63.github.io/mon_app_react_native/",
+
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
