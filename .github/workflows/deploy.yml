@@ -29,5 +29,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages
-          folder: web-build # ou 'build' selon votre configuration
+          folder: web-build
           token: ${{ secrets.MY_GITHUB_PAT }}
