@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/static/js/main.07ec3fad.js",
+    "static/js/41.8232a4e7.js": "/static/js/41.8232a4e7.js",
+    "static/media/image1.jpg": "/static/media/image1.ad3596094e23bb2436b7.jpg",
+    "static/media/image8.jpg": "/static/media/image8.26a71f52c1f9d1dbe311.jpg",
+    "static/media/image2.jpg": "/static/media/image2.e5caad79fb283a33bc49.jpg",
+    "static/media/image7.jpg": "/static/media/image7.d2561647238c0b9b9d68.jpg",
+    "static/media/image3.jpg": "/static/media/image3.962296aa914347ccbc2a.jpg",
+    "static/media/image5.jpg": "/static/media/image5.dd3fef8fb0bc548bc04e.jpg",
+    "static/media/image6.jpg": "/static/media/image6.5ad99b32051b96c0169b.jpg",
+    "static/media/image4.jpg": "/static/media/image4.5a034392cf211ca01ee4.jpg",
+    "static/media/OpenSans_800ExtraBold_Italic.ttf": "/static/media/OpenSans_800ExtraBold_Italic.58946b254d66c511e486.ttf",
+    "static/media/OpenSans_300Light_Italic.ttf": "/static/media/OpenSans_300Light_Italic.bdf919ff2f3e42b1c5c7.ttf",
+    "static/media/OpenSans_500Medium_Italic.ttf": "/static/media/OpenSans_500Medium_Italic.c184e31aeb6febd9f928.ttf",
+    "static/media/OpenSans_600SemiBold_Italic.ttf": "/static/media/OpenSans_600SemiBold_Italic.3cddcd62e2a5d4bb004e.ttf",
+    "static/media/OpenSans_400Regular_Italic.ttf": "/static/media/OpenSans_400Regular_Italic.a397a4c1ecd07655fe34.ttf",
+    "static/media/OpenSans_700Bold_Italic.ttf": "/static/media/OpenSans_700Bold_Italic.e60eebe76f1e9ea3fc09.ttf",
+    "static/media/OpenSans_800ExtraBold.ttf": "/static/media/OpenSans_800ExtraBold.df2044929df5b18703f1.ttf",
+    "static/media/OpenSans_500Medium.ttf": "/static/media/OpenSans_500Medium.a4894b36b47378c77c5f.ttf",
+    "static/media/OpenSans_400Regular.ttf": "/static/media/OpenSans_400Regular.77c09223204154ae8d43.ttf",
+    "static/media/OpenSans_700Bold.ttf": "/static/media/OpenSans_700Bold.fa428cdd2e334e2be904.ttf",
+    "static/media/OpenSans_300Light.ttf": "/static/media/OpenSans_300Light.55d5015c3ced03510e63.ttf",
+    "static/media/OpenSans_600SemiBold.ttf": "/static/media/OpenSans_600SemiBold.2f17aae884058c5a85df.ttf",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.07ec3fad.js.map": "/static/js/main.07ec3fad.js.map",
+    "41.8232a4e7.js.map": "/static/js/41.8232a4e7.js.map"
+  },
+  "entrypoints": [
+    "static/js/41.8232a4e7.js",
+    "static/js/main.07ec3fad.js"
+  ]
+}
